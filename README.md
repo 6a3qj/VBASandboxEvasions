@@ -1,4 +1,4 @@
 # VBASandboxEvasions
 
 Usefule evasions for common malware sandboxes
-![Alt text](http://i.imgur.com/7EnYDsd.jpg?1 "Bypass this")
+![Alt text](http://i.imgur.com/C9AIb2g.jpg?1 "Bypass this")
